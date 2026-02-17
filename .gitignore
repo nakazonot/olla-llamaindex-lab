@@ -1,0 +1,77 @@
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+pip-wheel-metadata/
+pip-delete-this-directory.txt
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+env.bak/
+venv.bak/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Logs and databases
+*.log
+chroma_db/
+chroma.sqlite3
+
+# Environment variables
+.env
+.env.*
+
+# Testing, type checking, coverage
+.pytest_cache/
+.mypy_cache/
+.pytype/
+.tox/
+.nox/
+.coverage
+coverage.xml
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Local settings
+local_settings.py
+
+# Misc
+*.pyc
+*.pyo
+*.pyd
+*.egg
+Pipfile.lock
+poetry.lock
+.cache/
+.ropeproject/
