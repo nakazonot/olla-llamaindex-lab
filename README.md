@@ -16,6 +16,10 @@ ollama serve
 
 ## ライブラリのインストール
 
+```bash
+pip install -r requirements.txt
+```
+
 (TODO)
 
 ## FastAPI サーバ起動
